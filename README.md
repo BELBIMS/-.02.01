@@ -29,8 +29,6 @@ Microsoft Visual Studio Community 2022
 ## Тестирование
 # Тестовый граф
 ***
-![image](https://github.com/ILYA222213/GraphicsRedandTextRed/assets/117897751/85745cef-17f7-4c05-9fb4-24f9b74c7535)
-
 ## **Интеграционное тестирование**
 
 **На рисунке 1 представлен граф программы**
@@ -59,9 +57,16 @@ Microsoft Visual Studio Community 2022
 
 **Путь 3:** Открытие окна расчёта, выход из приложения;
 
-![image](https://github.com/ILYA222213/GraphicsRedandTextRed/assets/117897751/be8f512d-57be-4d37-86b1-70a810932006)
-![image](https://github.com/ILYA222213/GraphicsRedandTextRed/assets/117897751/46f09bfa-2102-4c74-8314-11c779e055a1)
-![image](https://github.com/ILYA222213/GraphicsRedandTextRed/assets/117897751/d629a5ec-d78a-42b8-8f6e-cf1d46882dfd)
+![image](https://github.com/BELBIMS/YP.02.01/assets/60781555/23988e33-fadf-4364-9e6c-ff129a176277)
+
+![image](https://github.com/BELBIMS/YP.02.01/assets/60781555/0bc7d728-721f-485e-8077-f9295368ef8b)
+
+![image](https://github.com/BELBIMS/YP.02.01/assets/60781555/57279455-ed96-4edf-a1b9-f0e718038c5a)
+
+![image](https://github.com/BELBIMS/YP.02.01/assets/60781555/068d60a9-99f0-47c1-a659-f0dcfbd37a90)
+
+
+![image](https://github.com/BELBIMS/YP.02.01/assets/60781555/98eaabb5-6569-4f04-b8de-595ba2d64132)
 
 ## Обратная связь
 По вопросам, возникшим при эксплуатации программного продукта обращайтесть на мою электронную почту: il.ruzanovil@yandex.ru
